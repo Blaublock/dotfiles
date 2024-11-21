@@ -1,6 +1,9 @@
 " Enables Line numbers
 set nu
 
+" turn on syntax highlighting
+syntax on
+
 " Replaces tabs with spaces
 set expandtab
 " One Tab = 4 Spaces

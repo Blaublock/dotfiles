@@ -8,6 +8,8 @@ syntax on
 set expandtab
 " One Tab = 4 Spaces
 set tabstop=4
+" Makes backspace work on tabs
+set softtabstop=4
 " Autoindent when creating brackets
 set autoindent
 
